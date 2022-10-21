@@ -1,1 +1,5 @@
+# SITE SETTINGS
+title: Baskauf Mobile                        # Title in top navigation bar (navbar) and <head>
+description: Baskauf test website # Site description in <head>
+author: Steve Baskauf                   # Used for copyright statement in footer
 remote_theme: peterdesmet/petridish@2.0
