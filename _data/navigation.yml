@@ -4,7 +4,7 @@
   href: /
 - text: About
   href: /about/
-- text: Details
+- text: Technical
   menu: # Dropdown menu (one level deep only)
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Getting involved" # Title for block of menu items
