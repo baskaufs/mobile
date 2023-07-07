@@ -2,4 +2,4 @@
 title: Fake TDWG                        # Title in top navigation bar (navbar) and <head>
 description: Baskauf test website # Site description in <head>
 author: Steve Baskauf                   # Used for copyright statement in footer
-remote_theme: peterdesmet/petridish@2.0
+remote_theme: tdwg/petridish
