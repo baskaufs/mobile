@@ -4,23 +4,21 @@
   href: /
 - text: About
   href: /about/
-- text: Team
-  href: /team/
 - text: Details
   menu: # Dropdown menu (one level deep only)
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Getting involved" # Title for block of menu items
-  - text: Interest group or task group?
+  - text: Interest or task group?
     href: /technical/groups/
-  - text: Starting and running an interest group
+  - text: Running an interest group
     href: /technical/interest/
-  - text: Starting and running a task group
+  - text: Running a task group
     href: /technical/task/
   - text: "---"
   - text: "Techical reference"
   - text: Technical recommendations
     href: /technical/recommendations/
-  - text: Accessing machine-readable metadata for standards
+  - text: Machine-readable metadata
     href: https://github.com/tdwg/rs.tdwg.org#directories-machine-readable
   - text: Vocabulary translations
     href: https://tdwg.github.io/rs.tdwg.org/#multilingual-translations
@@ -33,3 +31,5 @@
     href: http://rs.tdwg.org/dwc/terms/attributes/
 - text: Blog
   href: /blog/
+- text: Team
+  href: /team/
