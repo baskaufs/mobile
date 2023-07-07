@@ -8,16 +8,28 @@
   href: /team/
 - text: Blog
   href: /blog/
-- text: Documentation
+- text: Details
   menu: # Dropdown menu (one level deep only)
-  - text: Installation
-    href: /installation/
-  - text: Configuration
-    href: /configuration/
-  - text: Markdown
-    href: /markdown/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
-  - text: External link to GitHub
-    href: https://github.com/peterdesmet/petridish/
+  - text: "Getting involved" # Title for block of menu items
+  - text: Interest group or task group?
+    href: /technical/groups/
+  - text: Starting and running an interest group
+    href: /technical/interest/
+  - text: Starting and running a task group
+    href: /technical/task/
+  - text: "---"
+  - text: "Techical reference"
+  - text: Technical recommendations
+    href: /technical/recommendations/
+  - text: Accessing machine-readable metadata for standards
+    href: https://github.com/tdwg/rs.tdwg.org#directories-machine-readable
+  - text: Vocabulary translations
+    href: https://tdwg.github.io/rs.tdwg.org/#multilingual-translations
     new_window: true
+  - text: "---"
+  - text: "Utility vocabularies"
+  - text: Controlled vocabulary for booleans
+    href: https://tdwg.github.io/tag/boolean/
+  - text: tdwgutility vocabulary
+    href: http://rs.tdwg.org/dwc/terms/attributes/
