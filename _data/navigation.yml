@@ -6,8 +6,6 @@
   href: /about/
 - text: Team
   href: /team/
-- text: Blog
-  href: /blog/
 - text: Details
   menu: # Dropdown menu (one level deep only)
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
@@ -33,3 +31,5 @@
     href: https://tdwg.github.io/tag/boolean/
   - text: tdwgutility vocabulary
     href: http://rs.tdwg.org/dwc/terms/attributes/
+- text: Blog
+  href: /blog/
